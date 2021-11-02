@@ -1,0 +1,22 @@
+{
+  "name": "daniel-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielOkyere/pluralsight-js-dev-env.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Daniel Okyere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielOkyere/pluralsight-js-dev-env/issues"
+  },
+  "homepage": "https://github.com/DanielOkyere/pluralsight-js-dev-env#readme"
+}
